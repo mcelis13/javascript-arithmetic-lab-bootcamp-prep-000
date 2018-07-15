@@ -22,6 +22,6 @@ function dec(n){
   return n--;
 };
 
-function makeInt(string){
-  return Number(string);
+function makeInt(n){
+  return Number(n);
 };
