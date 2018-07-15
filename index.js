@@ -16,12 +16,12 @@ function multiply(a, b){
 
 function inc(a){
   return num++;
-}
+};
 
 function dec(a){
   return num--;
-}
+};
 
 function makeInt(string){
   return Number(string);
-}
+};
