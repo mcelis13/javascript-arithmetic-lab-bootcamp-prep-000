@@ -1,25 +1,25 @@
 function add(a, b){
-  return num1 + num2;
+  return a + b;
 };
 
 function subtract(a, b){
-  return num1 - num2;
+  return a - b;
 };
 
 function divide(a, b){
-  return num1/num2;
+  return a/b;
 };
 
 function multiply(a, b){
-  return num1 * num2;
+  return a * b;
 };
 
 function inc(a){
-  return num++;
+  return a++;
 };
 
 function dec(a){
-  return num--;
+  return a--;
 };
 
 function makeInt(string){
